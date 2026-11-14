@@ -105,6 +105,26 @@ The dashboard will open in your web browser.
 - Analyze carrier and logistics operations.
 - Generate insights to support business decisions.
 
+## 📸 Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### 2. Delivery Analytics
+![Delivery Analytics](screenshots/delivery_analytics.png)
+
+### 3. Geographical Insights
+![Geographical Insights](screenshots/geographical_insights.png)
+
+### 4. Seller Performance
+![Seller Performance](screenshots/seller_performance.png)
+
+### 5. Logistics Intelligence
+![Logistics Intelligence](screenshots/logistics_intelligence.png)
+
+### 6. Business Insights
+![Business Insights](screenshots/business_insights.png)
+
 ## 👩‍💻 Author
 
 **Vidyalakshmee Beerappa Habagonde**
